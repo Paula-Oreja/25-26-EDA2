@@ -2,7 +2,9 @@
 
 Eliminar todas las apariciones de una letra en una palabra o frase.
 
-## Análisis recursivo
+<details>
+
+<summary>Ver análisis recursivo</summary>
 
 <div align=center>
 
@@ -25,7 +27,13 @@ Patrón de recursividad:
 
 </div>
 
+</details>
+
 ## Pseudocódigo
+
+<details>
+
+<summary>Ver pseudocódigo</summary>
 
 ```text
 FUNCION eliminarUnaLetra(palabra, letra)
