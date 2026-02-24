@@ -2,7 +2,9 @@
 
 En una palabra o frase, reemplazar una letra por otra.
 
-## Análisis recursivo
+<details>
+
+<summary>Ver análisis recursivo</summary>
 
 <div align=center>
 
@@ -22,7 +24,13 @@ Patrón de recursividad:
 
 </div>
 
+</details>
+
 ## Pseudocódigo
+
+<details>
+
+<summary>Ver pseudocódigo</summary>
 
 ```text
 FUNCION reemplazarUnaLetra(palabra, letraVieja, letraNueva)
