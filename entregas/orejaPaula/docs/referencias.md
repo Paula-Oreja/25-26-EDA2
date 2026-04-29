@@ -1,0 +1,5 @@
+- [Main](/entregas/orejaPaula/src/Main.java)
+- [Trazas](/entregas/orejaPaula/src/Trazas.java)
+- [InsertionSort](/orejaPaula/src/InsertionSort.java)
+- [MergeSort](/entregas/orejaPaula/src/MergeSort.java)
+- [QuickSort](/entregas/orejaPaula/src/QuickSort.java)
